@@ -1,0 +1,272 @@
+feature_name,category
+SaO2,vital_sign
+Heart Rate,vital_sign
+Systemic Systolic,vital_sign
+Systemic Diastolic,vital_sign
+Systemic Mean,vital_sign
+Consecutive_avg_FiO2_Over50,respiratory
+Consecutive_Vasopressor_Over7,infusiondrug
+Consecutive_Vasopressor_Over3,infusiondrug
+Consecutive_avg_FiO2_Over60,respiratory
+Full_code_interval,target
+Strength Arm,target
+Strength Leg,target
+dialysis_acc,diagnosis
+dialysis_since_last_event,diagnosis
+dialysis_over3,target
+dialysis_over7,target
+ICU_Class_1,target
+ICU_Class_2,target
+ICU_Class_3,target
+use_vent_over3,respiratory
+FiO2,respiratory
+Minute Ventilation,respiratory
+Mean Airway Pressure,respiratory
+Peak Airway Pressure,respiratory
+PEEP,respiratory
+Plateau,respiratory
+Tidal Volume,respiratory
+Respiratory Rate,respiratory
+RASS,GCS
+Platelets x1000,lab
+WBC x1000,lab
+Hgb,lab
+PO2,lab
+PaCO2,lab
+Glucose,lab
+BUN,lab
+pH,lab
+Sodium,lab
+Potassium,lab
+Magnesium,lab
+Calcium,lab
+Chloride,lab
+creatinine,lab
+HCO3,lab
+Phosphate,lab
+PT-INR,lab
+Sedation,infusiondrug
+PPI,infusiondrug
+Pain control,infusiondrug
+total,intakeoutput
+Fluid_intake_value,intakeoutput
+Nutrition_Enteral_value,intakeoutput
+Urine_value,intakeoutput
+Aspergillus,microlab
+Candida,microlab
+Abdomen,microlab
+Blood,microlab
+Respiratory tract,microlab
+Skin and soft tissue,microlab
+Urinary tract,microlab
+Others,microlab
+Anxiety,target
+"Assess for anxiety, depression, or delirium which may contribut",target
+Asystole,target
+Blood Transfusion,target
+"Consult to pastoral care, social services, palliative care, psy",target
+Early mobilization,target
+Encourage family to participate in care,target
+Encourage patient / family members to accept individual reponse,target
+Encourage patient / family to set and verbalize care goals,target
+Enlist family support / family sitters,target
+Explanation,target
+Family at bedside,target
+Family Called,target
+Family Conference,target
+Family Member,target
+Family Talked to MD,target
+Family Talked to RN,target
+Family Visited,target
+Full code,target
+Full resistance,target
+Fully awake,target
+Listen attentively when patient attempts to communicate,target
+Liver Failure,target
+Manage environment for patient''s maximum comfort,target
+Maintain GCS >= 8,target
+No Proxy,target
+"No, not sedated",target
+Palliative Care,target
+Patient / family involved in treatment plan,target
+Patient / family will have adequate support once CMO decision h,target
+Patient / family will have support throughout the dying process,target
+Patient / family will participate in planning and initiating cu,target
+Patient refused,target
+Patient Verbalized,target
+Muscle,target
+Vocalization,target
+Body Movements,target
+Facial Expressions,target
+CPOT(SUM),target
+Promote early mobility,target
+Rehab,target
+Rehabilitation,target
+Social Service Involved,target
+Social Services,target
+Social Work,target
+Spiritual,target
+Thermoregulation,target
+TPN,target
+Tracheostomy,target
+Tracheostomy tube,target
+With family,target
+With spouse,target
+Withdraws,target
+Response,target
+Coping/Knowledge Deficit  NCP - Expected outcomes,target
+antibiotic,infusiondrug
+SOFA-respiration,sofa
+SOFA-coagulation,sofa
+SOFA-liver,sofa
+SOFA-cardiovascular,sofa
+SOFA-cns,sofa
+SOFA-renal,sofa
+CVICU,target
+Neuro SICU,Can't find
+SICU,Can't find
+gender,patient
+age,patient
+race,patient
+apsiii,patient
+MI,diagnosis
+CHF,diagnosis
+PVD,diagnosis
+CVD,diagnosis
+Dementia,diagnosis
+CPD,diagnosis
+RD,diagnosis
+PUD,diagnosis
+MLD,diagnosis
+DM_acute,diagnosis
+DM_Chronic,diagnosis
+Hemiplegia,diagnosis
+Renal,diagnosis
+Malignancy,diagnosis
+LD,diagnosis
+MST,diagnosis
+AIDS,diagnosis
+Troponin - T,lab
+Ferritin,lab
+Transferrin,lab
+CRP,lab
+Fibrinogen,lab
+HDL,lab
+LDL,lab
+Total Cholesterol,lab
+Direct Bilirubin,lab
+Lactate,lab
+LDH,lab
+Lipase,lab
+Amylase,lab
+CPK,lab
+CPK-MB,lab
+BNP,lab
+PTT,lab
+Fe,lab
+TIBC,lab
+Fe/TIBC Ratio,lab
+Serum_Osmolality,lab
+TSH,lab
+T3,lab
+T4,lab
+Free T4,lab
+Ionized Calcium,lab
+Triglycerides,lab
+Cortisol,lab
+Uric Acid,lab
+Ammonia,lab
+Vitamin B12,lab
+Spouse,target
+use_vent_consecutive_7days,respiratory
+use_vent_acc,respiratory
+first_day_SaO2,vital_sign
+first_day_Heart Rate,vital_sign
+first_day_Systemic Systolic,vital_sign
+first_day_Systemic Diastolic,vital_sign
+first_day_Systemic Mean,vital_sign
+first_day_Consecutive_avg_FiO2_Over50,respiratory
+first_day_Consecutive_Vasopressor_Over7,infusiondrug
+first_day_Consecutive_Vasopressor_Over3,infusiondrug
+first_day_Consecutive_avg_FiO2_Over60,respiratory
+first_day_Full_code_interval,target
+first_day_Strength Arm,target
+first_day_Strength Leg,target
+first_day_dialysis_acc,diagnosis
+first_day_dialysis_since_last_event,diagnosis
+first_day_dialysis_over3,target
+first_day_dialysis_over7,target
+first_day_ICU_Class_1,target
+first_day_ICU_Class_2,target
+first_day_ICU_Class_3,target
+first_day_use_vent_over3,respiratory
+first_day_FiO2,respiratory
+first_day_Minute Ventilation,respiratory
+first_day_Mean Airway Pressure,respiratory
+first_day_Peak Airway Pressure,respiratory
+first_day_PEEP,respiratory
+first_day_Plateau,respiratory
+first_day_Tidal Volume,respiratory
+first_day_Respiratory Rate,respiratory
+first_day_RASS,GCS
+first_day_Platelets x1000,lab
+first_day_WBC x1000,lab
+first_day_Hgb,lab
+first_day_PO2,lab
+first_day_PaCO2,lab
+first_day_Glucose,lab
+first_day_BUN,lab
+first_day_pH,lab
+first_day_Sodium,lab
+first_day_Potassium,lab
+first_day_Magnesium,lab
+first_day_Calcium,lab
+first_day_Chloride,lab
+first_day_creatinine,lab
+first_day_HCO3,lab
+first_day_Phosphate,lab
+first_day_PT-INR,lab
+first_day_Vasopressor,infusiondrug
+first_day_Sedation,infusiondrug
+first_day_PPI,infusiondrug
+first_day_Pain control,infusiondrug
+first_day_total,intakeoutput
+first_day_Fluid_intake_value,intakeoutput
+first_day_Nutrition_Enteral_value,intakeoutput
+first_day_Urine_value,intakeoutput
+first_day_Aspergillus,microlab
+first_day_Candida,microlab
+first_day_Abdomen,microlab
+first_day_Blood,microlab
+first_day_Respiratory tract,microlab
+first_day_Skin and soft tissue,microlab
+first_day_Urinary tract,microlab
+first_day_Others,microlab
+first_day_HFNC,target
+first_day_Anxiety,target
+"first_day_Assess for anxiety, depression, or delirium which may contribut",target
+first_day_Asystole,target
+first_day_Blood Transfusion,target
+"first_day_Consult to pastoral care, social services, palliative care, psy",target
+first_day_Early mobilization,target
+first_day_Encourage family to participate in care,target
+first_day_Encourage patient / family members to accept individual reponse,target
+first_day_Encourage patient / family to set and verbalize care goals,target
+first_day_Enlist family support / family sitters,target
+first_day_Explanation,target
+first_day_Family at bedside,target
+first_day_Family Called,target
+first_day_Family Conference,target
+first_day_Family Member,target
+first_day_Family Talked to MD,target
+first_day_Family Talked to RN,target
+first_day_Family Visited,target
+first_day_Full code,target
+first_day_Full resistance,target
+first_day_Fully awake,target
+first_day_Listen attentively when patient attempts to communicate,target
+first_day_Liver Failure,target
+first_day_Manage environment for patient''s maximum comfort,target
+first_day_Maintain GCS >= 8,target
+first_day_No Proxy,target
+"first_day_No, not sedated",target
